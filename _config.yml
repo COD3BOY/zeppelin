@@ -67,7 +67,7 @@ statisticBlock:
  - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "events", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "5", specialCharacter: "", info: "mentors", detail: “from the industry"}
+ - {count: "5", specialCharacter: "", info: "mentors", detail: "from the industry"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
