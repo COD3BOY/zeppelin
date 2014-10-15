@@ -40,6 +40,8 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/mentors/", text: "Mentors"}
+
 bottomNavigationLinks:
  - {link: "http://bit.ly/GDGCochinMembership", text: "Become a Member"}
 rightNavigationButtons:
