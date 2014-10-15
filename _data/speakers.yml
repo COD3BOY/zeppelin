@@ -4,7 +4,7 @@
   surname: "Sanjeev"
   company: "Google India"
   title: "Developer Relations Program Manager"
-  bio: "Amrit proudly admits to being a geek. “I loved computers from a very young age. I think I was in 9th standard when there was this one time that I couldn’t get something to work. My father introduced me to the computer admin of his company to help me out with my issue. So I went to him with a floppy disk with my program in it and he saw many files in it. So he asked me ‘how many lines of code are actually there?’ and I said ‘about 10000’ and he asked me to come and see him the next day. That night he called my parents and asked them to encourage me in what I was doing as he thought I had some talent in this area.” Amrit says that he always understood languages quite well, but college taught him more about algorithms and data structures."
+  bio: "Amrit proudly admits to being a geek.I loved computers from a very young age. I think I was in 9th standard when there was this one time that I couldn’t get something to work. My father introduced me to the computer admin of his company to help me out with my issue. So I went to him with a floppy disk with my program in it and he saw many files in it. So he asked me how many lines of code are actually there? and I said about 10000 and he asked me to come and see him the next day. That night he called my parents and asked them to encourage me in what I was doing as he thought I had some talent in this area. Amrit says that he always understood languages quite well but college taught him more about algorithms and data structures."
   thumbnailUrl: AmritSanjeev.jpg
   rockstar: true
   ribbon: 
@@ -18,11 +18,7 @@
   surname: "Irani"
   company: "Mind Storm Software Private Limited"
   title: "Managing Director"
-  bio: "My passion is learning, teaching & promoting tools and technologies to current and future developers. 
-
-Hands-on Architect with special focus on Google and Open Web Technologies like Google Cloud Platform, Android and HTML5. 
-
-I blog tech stuff at http://www.rominirani.com"
+  bio: "My passion is learning, teaching & promoting tools and technologies to current and future developers.Hands-on Architect with special focus on Google and Open Web Technologies like Google Cloud Platform, Android and HTML5.I blog tech stuff at http://www.rominirani.com"
 
   thumbnailUrl: RominIrani.jpg
   rockstar: true
@@ -53,3 +49,22 @@ Specialties:J2EE, Unix, Scripting, Application Migration Strategy, Data migratio
   bio: "More details about Praseed to be included here"
   thumbnailUrl: PraseedPai.jpg
   rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 7
+  name: "Valentyn"
+  surname: "Shybanov"
+  company: "Twinfield, GDG Kyiv"
+  title: "Software engineer/country manager"
+  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
+  thumbnailUrl: ValentynShybanov.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
