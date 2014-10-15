@@ -18,9 +18,8 @@
   surname: "Irani"
   company: "Mind Storm Software Private Limited"
   title: "Managing Director"
-  bio: "My passion is learning, teaching & promoting tools and technologies to current and future developers.Hands-on Architect with special focus on Google and Open Web Technologies like Google Cloud Platform, Android and HTML5.I blog tech stuff at http://www.rominirani.com"
-
-  thumbnailUrl: RominIrani.jpg
+  bio: "My passion is learning, teaching & promoting tools and technologies to current and future developers.Hands-on Architect with special focus on Google and Open Web Technologies like Google Cloud Platform, Android and HTML5."
+  thumbnailUrl: RominIrani.png
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RominIrani"}
@@ -31,11 +30,10 @@
   name: "Shibu"
   surname: "Basheer"
   company: "Cabot Technology Solutions"
-  title: "I am the founder and CTO of Cabot Solutions a web solutions firm with expertise in building web and mobile applications. We also provide professional project management, business analysis and quality assurance services managed by PMP certified Project Managers. E-Commerce and IT Consultant with many full project lifecycle experience.
-
-Specialties:J2EE, Unix, Scripting, Application Migration Strategy, Data migration, E-Commerce consulting, IT Business Solutions."
+  title: "I am the founder and CTO of Cabot Solutions a web solutions firm with expertise in building web and mobile applications. We also provide professional project management, business analysis and quality assurance services managed by PMP certified Project Managers. E-Commerce and IT Consultant with many full project lifecycle experience. Specialties:J2EE, Unix, Scripting, Application Migration Strategy, Data migration, E-Commerce consulting, IT Business Solutions."
   thumbnailUrl: ShibuBasheer.jpg
   rockstar: true
+  ribbon: 
       - {abbr: "Web", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ShibuBasheer"}
