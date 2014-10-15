@@ -21,7 +21,7 @@ organizerAlternateName: "Google Developer Group Cochin"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "sanjaynediyara@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://facebook.com/COD3BOY"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers,cochin,kochi"
@@ -41,9 +41,9 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/GDGCochinMembership", text: "Become a Member"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/GDGCochinMembership", text: "Become a Member"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -52,7 +52,7 @@ eventDate: "Code - Learn - Have Fun"
 typeoutTextValues: '"", "Code", "Learn", "TestBed", "Device Lab"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a Member"}
+ - {link: "http://bit.ly/GDGCochinMembership", text: "Become a Member"}
 
 # About Block
 aboutTitle: "About GDG Cochin"
@@ -67,7 +67,7 @@ statisticBlock:
  - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "10", specialCharacter: "+", info: "events", detail: "of pure Google technologies"}
  - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "5", specialCharacter: "", info: "mentors", detail: "from the industry"}
+ - {count: "15", specialCharacter: "+", info: "mentors", detail: "from the industry"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -106,7 +106,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "gdgcochin"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
@@ -129,12 +129,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgcochin.org", text: "GDGCochin.org"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "sanjaynediyara@gmail.com"}
+   - {link: "mailto:sanjaynediyara@gmail.com", text: "sanjaynediyara@gmail.com"}
  -
   title: "FAQ"
   links:
