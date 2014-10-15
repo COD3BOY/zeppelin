@@ -9,6 +9,8 @@
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "Android", title: "Android", url: "https://developers.android.com/"}
+
 
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AmritSanjeev/"}
@@ -21,6 +23,10 @@
   bio: "My passion is learning, teaching & promoting tools and technologies to current and future developers.Hands-on Architect with special focus on Google and Open Web Technologies like Google Cloud Platform, Android and HTML5."
   thumbnailUrl: RominIrani.png
   rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "Cloud", title: "Android", url: "https://developers.android.com/"}
+
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RominIrani"}
     - {name: "twitter", link: "https://twitter.com/iRomin"}
@@ -35,6 +41,10 @@
   rockstar: true
   ribbon:
       - {abbr: "Web", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
+      - {abbr: "Java Enterprise", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
+      - {abbr: "Linux", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
+      - {abbr: "Mobile Apps", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
+
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ShibuBasheer"}
     - {name: "twitter", link: "https://twitter.com/shibubasheer"}
@@ -48,10 +58,10 @@
   thumbnailUrl: PraseedPai.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "Web", title: "Web Developer", url: "http://praseedp.blogspot.in"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    - {name: "google-plus", link: "https://plus.google.com/+PraseedPai/"}
+    - {name: "twitter", link: "http://twitter.com/PraseedPai"}
     
 -
   id: 10
