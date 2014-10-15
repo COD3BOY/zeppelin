@@ -52,3 +52,22 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+    
+-
+  id: 10
+  name: "Jobins"
+  surname: "John"
+  company: "Cabot Technology Solutions"
+  title: "Developer"
+  bio: "A brief description about Jobins goes here"
+  thumbnailUrl: JobinsJohn.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "JS", title: "JavaScript", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "PhantomJS", title: "PhantomJS", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "IOS", title: "Iphone Development", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "PHP", title: "PHP", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JobinsJohn/"}
+    - {name: "twitter", link: "http://twitter.com/jobins_john"}
