@@ -25,7 +25,7 @@
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "Cloud", title: "Android", url: "https://developers.android.com/"}
+    - {abbr: "Cloud", title: "Cloud", url: "https://cloud.google.com/"}
 
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RominIrani"}
@@ -41,9 +41,9 @@
   rockstar: true
   ribbon:
       - {abbr: "Web", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
-      - {abbr: "Java Enterprise", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
-      - {abbr: "Linux", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
-      - {abbr: "Mobile Apps", title: "Web Applications", url: "https://www.linkedin.com/in/shibubasheer"}
+      - {abbr: "Java", title: "Java Enterprise", url: "https://www.linkedin.com/in/shibubasheer"}
+      - {abbr: "Linux", title: "Linux", url: "https://www.linkedin.com/in/shibubasheer"}
+      - {abbr: "Mobile Apps", title: "Mobile Applications", url: "https://www.linkedin.com/in/shibubasheer"}
 
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+ShibuBasheer"}
