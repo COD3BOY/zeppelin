@@ -31,8 +31,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "http://bit.ly/GDGCochinMembership"
+c4sponsorsUrl: "http://bit.ly/GDGCochinMembership"
 
 
 # Navigation
@@ -59,16 +59,16 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG Cochin"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "Running the biggest Google related event in the state carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "10", specialCharacter: "+", info: "events", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "1000", specialCharacter: "+", info: "attendees", detail: "from across the state"}
+ - {count: "10", specialCharacter: "+", info: "events", detail: "across different domains"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from state and beyond"}
  - {count: "15", specialCharacter: "+", info: "mentors", detail: "from the industry"}
 
 # Latest News Block
